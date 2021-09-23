@@ -12,8 +12,8 @@
 
 ### Screenshot
 
-![](images/desktopDesign.png)
-![](images/mobileDesign.png)
+![](./images/desktopDesign.png)
+![](./images/mobileDesign.png)
 
 [Live Site URL](https://sonndy.github.io/Contacts-Locations/)
 
