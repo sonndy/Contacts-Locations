@@ -15,7 +15,7 @@
 ![](images/desktopDesign.png)
 ![](images/mobileDesign.png)
 
-[Live Site URL](https://sonndy.github.io/Coming-Soon-Apparel-site/)
+[Live Site URL](https://sonndy.github.io/Contacts-Locations/)
 
 ## My process
 
