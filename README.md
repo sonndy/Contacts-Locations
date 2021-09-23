@@ -25,7 +25,7 @@
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Grid
+- CSS
 - Mobile-first workflow
 - Font awesome
 - Bing API
