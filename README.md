@@ -12,8 +12,8 @@
 
 ### Screenshot
 
-![](images/desktopDesign.png)
-![](images/mobileDesign.png)
+![](Images/desktopDesign.png)
+![](Images/mobileDesign.png)
 
 [Live Site URL](https://sonndy.github.io/Coming-Soon-Apparel-site/)
 
